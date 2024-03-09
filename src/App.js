@@ -17,7 +17,7 @@ function App() {
     <div className='h-screen'>
       <NavBar menuOpen={menuOpen} handleMenu={handleMenu} />
       <Menu menuOpen={menuOpen} handleMenu={handleMenu} />
-      <div className='w-full h-screen overflow-y-scroll scroll-behavior-smooth -top-[70px] bg-lightsalmon relative top-16'>
+      <div className='w-full h-screen  -top-[70px] bg-lightsalmon relative top-16'>
         <Intro />
         <Portfolio />
         <Works />

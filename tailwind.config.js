@@ -9,6 +9,12 @@ module.exports = {
         lightcoral: '#F08080',
         lightsalmon: '#FFA07A',
 
+      },
+      width: {
+        '600': '600px',
+      },
+      height: {
+        '900': '700px',
       }
     },
   },
