@@ -26,7 +26,7 @@ function Portfolio() {
     ];
 
     return (
-        <div className='bg-white w-screen h-screen -top-[70px] flex flex-col items-center mt-4' id='portfolio'>
+        <div className='bg-white w-screen h-screen -top-[70px] flex flex-col items-center mt-4 ' id='portfolio'>
             <h1 className='text-5xl'>Portfolio</h1>
             <ul className='mx-2.5 flex '>
                 {

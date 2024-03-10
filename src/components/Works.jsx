@@ -30,7 +30,7 @@ function Works() {
     ]
 
     const handleClick = (way) => {
-        way === "left" ? setSlider(slider > 0 ? slider - 1 : 2) : setSlider(slider < data.length - 1 ? slider + 1 : 0)
+        way === "left" ? setSlider(slider > 0 ? slider - 1 : 3) : setSlider(slider < data.length - 1 ? slider + 1 : 0)
     }
     return (
         <div className='bg-gray-500 w-screen h-screen -top-[70px] flex items-center justify-center relative' id='works'>
