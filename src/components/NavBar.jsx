@@ -10,7 +10,7 @@ function NavBar({ menuOpen, handleMenu }) {
                     <a href="#intro" className='text-4xl font-bold mr-9'>Prakash</a>
                     <div className='flex items-center ml-7'>
                         <div className='text-lg mr-2'><i className="fa-solid fa-user"></i></div>
-                        <span>+91 123446789</span>
+                        <span>+91 9014433215</span>
                     </div>
 
                     <div className='flex items-center ml-7'>

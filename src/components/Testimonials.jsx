@@ -28,7 +28,7 @@ function Testimonials() {
         }
     ]
     return (
-        <div className='bg-gray-400 w-screen h-screen -top-[70px] text-white flex flex-col items-center ' id='testimonials'>
+        <div className='bg-gray-500 w-screen h-screen -top-[70px] text-white flex flex-col items-center ' id='testimonials'>
             <h1 className='text-4xl font-extrabold mt-5'>Testimonials</h1>
             <div className='w-full h-full flex items-center justify-center '>
                 {data.map(p => (
